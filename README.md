@@ -7,3 +7,4 @@ lecture notes of pytorch for machine learning
 - lecture1 : introductry to pytorch
 - lectuer2:  1D linear regression 
 - lecture3:  1D linear regression(gradient_descent vs stochastic_gradient_descent vs mini_batch_gradient_descent)
+- lecture4:  multiple linear regression + logistic regression +cross entropy
